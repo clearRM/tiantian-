@@ -7,5 +7,5 @@
 1：需要python3 运行坏境
 2：需要引入部分模块 引入模块 pip install -r module.txt
 
-技术交流 定制开发 v：mm1222527
+技术交流/定制开发：xnzcoder@163.com
 
